@@ -107,3 +107,7 @@ L'application suit le pattern **Provider + Repository** :
 - **DatabaseHelper** : singleton gérant la connexion sqflite
 
 La navigation utilise `go_router` avec un `ShellRoute` pour la Bottom Navigation Bar, et des routes racines pour les écrans de navigation contextuelle (détail produit, commande, détail commande).
+
+## capture d'écran
+
+
