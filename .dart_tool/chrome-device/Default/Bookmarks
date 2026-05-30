@@ -1,0 +1,65 @@
+{
+   "checksum": "c1c9ac8969cdd43bdcecd07401d660e1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13361741616913558",
+            "date_last_used": "0",
+            "guid": "40457a07-6f8e-4a97-82dc-62856d4b590d",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Génétique_supplémentaire[1].pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/PRINCESSE/AppData/Local/Microsoft/Windows/INetCache/IE/5FF9HPZQ/G%C3%A9n%C3%A9tique_suppl%C3%A9mentaire[1].pdf",
+            "visit_count": 0
+         } ],
+         "date_added": "13424606895175250",
+         "date_last_used": "0",
+         "date_modified": "13361741616913558",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre des favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13424606895175250",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13424606895175250",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris de l’appareil mobile",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13424606895175250",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Espaces de travail",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCKlQ3UqaAQAAEgAqGEtHeXZiSDc4OSttVTJwUDZrV1Q4YkE9PUgDoAYHEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGNlOTFkZjllLTQ5ZmUtNTFmZS05ZWI4LTY4Y2RlYTE2ODI1MhgAIAAoADCvla3+6zE4pZyt/usxQKWcrf7rMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKOAQgFEokBChx3UkJyWkwrNlBBOWF2S2dqTlA3SlhETGNmdnM9EiRhOGMxZDA4ZC0xNmE2LTU0OTYtYjFlOS0yY2NmZDc1MjNhYzUYACAAKAAwqKH11qQzONii9dakM0DYovXWpDNKHG5teDY1c1FEdnhJOFRnRWV2K0ErbnR0b1NuND1aAGUAAAAAwj4CYAASrAEIBxKnAQocQTVHcGxnYUxkRE5RUXVpL0s3WXdSU0VkeWtFPRIkNDA0NTdhMDctNmY4ZS00YTk3LTgyZGMtNjI4NTZkNGI1OTBkGAAgACgAMI2Mqez+MTjKjqns/jFAyo6p7P4xShxiUGQ0OGJzTWRCVE5BQlQ1RklRY2ZCWjJqb3c9Wh4iHFZWVmpsZFZWSE00Rk5ZNkkwZmJDYXl1QnZsVT1ld3Bso8I+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDQwM2FkY2QxLTczN2YtNTVkNS04MWI5LTMwYmUwMDQ0ZTkzNBgAIAAoADCqla3+6zE47Zut/usxQO2brf7rMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ5MzM3ZmE2Mi1hMTA0LTVjZmItYWFlZC05NjI1ZmE2ODVkYmMYACAAKAAwqZWt/usxONGbrf7rMUDRm63+6zFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

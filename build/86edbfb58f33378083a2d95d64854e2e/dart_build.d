@@ -1,0 +1,1 @@
+ E:\\flutter\\flutter_ecommerce\\build\\86edbfb58f33378083a2d95d64854e2e\\dart_build_result.json:  D:\\flutter_windows_3.41.9-stable\\flutter\\bin\\cache\\dart-sdk\\version E:\\flutter\\flutter_ecommerce\\.dart_tool\\package_config.json E:\\flutter\\flutter_ecommerce\\pubspec.yaml e:\\flutter\\flutter_ecommerce\\.dart_tool\\package_config.json

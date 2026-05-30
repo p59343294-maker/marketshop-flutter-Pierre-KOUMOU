@@ -1,0 +1,43 @@
+name: mini_ecommerce
+description: Application mini e-commerce Flutter
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP
+  http: ^1.2.0
+
+  # Base de données locale
+  sqflite: ^2.3.2
+  path: ^1.9.0
+
+  # Gestion d'état
+  provider: ^6.1.2
+
+  # Images réseau avec cache
+  cached_network_image: ^3.3.1
+
+  # Navigation
+  go_router: ^13.2.0
+
+  # Internationalisation / formatage
+  intl: ^0.19.0
+
+  # Icônes supplémentaires
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
